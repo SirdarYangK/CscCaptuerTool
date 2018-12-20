@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">云享云维护工具</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="network_time_out">网络连接超时</string>
+    <string name="network_api_error">系统繁忙，操作失败</string>
+    <string name="network_error">网络异常，请稍后尝试！</string>
+    <string name="data_error">返回数据错误</string>
+    <string name="parse_data_error">数据解析错误</string>
+    <string name="number_format_error">数据类型解析错误</string>
+
+    <string name="device_id">设备ID: %s</string>
+    <string name="device_addr">设备位置: %s</string>
+    <string name="device_launch_state">投放状态: %s</string>
+    <string name="device_online">在线状态: %s</string>
+</resources>
